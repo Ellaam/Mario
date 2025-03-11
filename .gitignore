@@ -1,0 +1,22 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.vcxproj.user
+*.aps
+*.ncb
+*.sdf
+*.opendb
+*.VC.db
+
+# Build files
+bin/
+obj/
+Debug/
+Release/
+
+# CMake files (if using)
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
