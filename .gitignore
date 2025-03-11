@@ -20,3 +20,26 @@ CMakeCache.txt
 CMakeFiles/
 Makefile
 cmake_install.cmake
+
+
+# C++ build directories and object files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.lib
+*.dll
+
+# Visual Studio-specific files
+.vs/
+.vscode/
+.idea/
+
+# MacOS, Windows, Linux system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries and debug files
+/bin/
+/build/
